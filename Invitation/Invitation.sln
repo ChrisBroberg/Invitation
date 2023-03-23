@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invitation.Backend.API", "Invitation.Backend.API\Invitation.Backend.API.csproj", "{73532673-BDF8-436E-AEF8-336DC59CC51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invitation.Backend.Services.ImageService", "Invitation.Backend.Services.ImageService\Invitation.Backend.Services.ImageService.csproj", "{64C49D2F-3516-4195-A1DC-CD0EC760DE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73532673-BDF8-436E-AEF8-336DC59CC51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73532673-BDF8-436E-AEF8-336DC59CC51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73532673-BDF8-436E-AEF8-336DC59CC51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73532673-BDF8-436E-AEF8-336DC59CC51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C49D2F-3516-4195-A1DC-CD0EC760DE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C49D2F-3516-4195-A1DC-CD0EC760DE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C49D2F-3516-4195-A1DC-CD0EC760DE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C49D2F-3516-4195-A1DC-CD0EC760DE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BA66C4-D580-455C-AA13-DB558390B308}
+	EndGlobalSection
+EndGlobal
